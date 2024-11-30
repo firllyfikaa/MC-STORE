@@ -4,7 +4,7 @@ Welcome
 
 # MC STORE
 
-Sebuah template website store yang dapat digunakan oleh siapa saja. Template ini dirancang untuk memudahkan Anda dalam membangun toko online yang menarik. Template ini dikhususkan untuk para pemula yang baru belajar pembuatan website dasar.
+Sebuah template website store yang dapat digunakan oleh siapa saja. Template ini dirancang untuk memudahkan Anda dalam membangun toko online yang menarik. Template ini juga cocok untuk para pemula yang baru belajar pembuatan website dasar.
 
 ## Fitur
 
