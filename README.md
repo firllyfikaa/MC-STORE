@@ -5,7 +5,7 @@ Welcome
 # MC STORE
 
 Sebuah template website store yang dapat digunakan oleh siapa saja. Template ini dirancang untuk memudahkan Anda dalam membangun toko online yang menarik. Template ini juga cocok untuk para pemula yang baru belajar pembuatan website dasar.
-[Visit Template](http://dash.mccraft.my.id:2012/)
+[Visit Template](https://firllyfikaa.github.io/MC-STORE/)
 
 ## Fitur
 
